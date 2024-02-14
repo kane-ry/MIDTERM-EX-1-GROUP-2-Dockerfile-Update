@@ -1,0 +1,2 @@
+Write a paragraph (4-5 sentences) describing how your group worked together to complete this assignment.  Make sure to describe in detail how you identified packages needed, 
+debugged errors during the build, and tested your build for successful implementation.
