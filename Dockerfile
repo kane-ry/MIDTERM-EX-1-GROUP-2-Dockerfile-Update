@@ -18,12 +18,19 @@ RUN pip install \
     graphviz==0.20.1 \ 
     dask-ml==2023.3.24 \ 
     plotly==5.18.0 \ 
-    numpy==1.26.4 \
-    pandas==2.2.0 \
+    numpy==1.24.4 \
+    pandas==1.5.3 \
     seaborn==0.13.2 \ 
     jupyter==1.0.0 \  
     scikit-learn==1.4.0 \ 
     statsmodels==0.14.1 \
+    matplotlib==3.8.3 \
+    ISLP==0.3.22 \
+    torch==2.2.0 \
+    torchmetrics==1.3.1 \
+    torchinfo==1.8.0 \
+    pytorch-lightning==2.2.0.post0 \
+    torchvision==0.17.0 
    
 WORKDIR /home/notebooks/
 
