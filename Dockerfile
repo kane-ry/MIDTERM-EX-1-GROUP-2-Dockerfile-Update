@@ -32,7 +32,7 @@ RUN pip install \
     pytorch-lightning==2.2.0.post0 \
     torchvision==0.17.0 \
     glob==10.4.2 \
-    json==20240303
+    json==2.7.2
    
 WORKDIR /home/notebooks/
 
