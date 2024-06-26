@@ -33,6 +33,6 @@ RUN pip install \
     torchvision==0.17.0 \
     glob2==0.7 
    
-WORKDIR /home/notebooks
+WORKDIR /home/notebooks/
 
 CMD jupyter notebook --no-browser --allow-root --ip 0.0.0.0
