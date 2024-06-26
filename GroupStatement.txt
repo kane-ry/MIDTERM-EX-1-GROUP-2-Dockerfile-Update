@@ -1,1 +1,5 @@
-Our group worked to complete this assignment by scheduling a meeting with all members. We reviewed the assignment and decided to debug the Dockerfile by first checking and updating the imports to their latest versions. When we ran the file, we identified specific version requirements through the version dependencies. After addressing each error, we then reran the Dockerfile, restarted, and reran the Jupyter notebook to ensure everything worked without errors. After each submitting a pull request we reviewed and merged the resulting Dockerfile.
+Our group worked to complete this assignment by scheduling a meeting with all members. We reviewed the 
+assignment and decided to debug the Dockerfile by first checking and updating the imports to their latest versions. 
+When we ran the file, we identified specific version requirements through the version dependencies. After addressing each error,
+we then reran the Dockerfile, restarted, and reran the Jupyter notebook to ensure everything worked without errors. After each 
+submitting a pull request we reviewed and merged the resulting Dockerfile.
