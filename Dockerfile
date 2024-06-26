@@ -30,7 +30,8 @@ RUN pip install \
     torchmetrics==1.3.1 \
     torchinfo==1.8.0 \
     pytorch-lightning==2.2.0.post0 \
-    torchvision==0.17.0 
+    torchvision==0.17.0 \
+    glob2==0.7 
    
 WORKDIR /home/notebooks/
 
