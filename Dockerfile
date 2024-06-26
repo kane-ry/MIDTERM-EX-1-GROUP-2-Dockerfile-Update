@@ -31,9 +31,8 @@ RUN pip install \
     torchinfo==1.8.0 \
     pytorch-lightning==2.2.0.post0 \
     torchvision==0.17.0 \
-    glob==2.0.7 \
-    json==2.7.4
+    glob2==0.7 
    
-WORKDIR /home/notebooks/
+WORKDIR /home/notebooks
 
 CMD jupyter notebook --no-browser --allow-root --ip 0.0.0.0
